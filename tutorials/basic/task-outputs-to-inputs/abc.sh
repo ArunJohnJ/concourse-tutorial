@@ -1,3 +1,4 @@
 #!/bin/sh
 
-pwd
+cd some-files
+ls
